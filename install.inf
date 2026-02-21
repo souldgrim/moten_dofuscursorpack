@@ -1,0 +1,37 @@
+[Version]
+Signature="$CHICAGO$"
+
+[DefaultInstall]
+CopyFiles=CursorFiles
+AddReg=CursorScheme.Reg
+
+[DestinationDirs]
+CursorFiles=10,"Cursors\%PACK_DIR%"
+
+[CursorFiles]
+"Alternate Select.cur"
+"Busy.ani"
+"Diagonal Resize 1.cur"
+"Diagonal Resize 2.cur"
+"Handwriting.cur"
+"Help Select.cur"
+"Horizontal Resize.cur"
+"Link Select.cur"
+"Location Select.cur"
+"Move.cur"
+"Normal Select.cur"
+"Person Select.cur"
+"Precision Select.cur"
+"Text Select.cur"
+"Unavailable.cur"
+"Vertical Resize.cur"
+"Working in Background.ani"
+
+[CursorScheme.Reg]
+; Ajoute le schéma dans la liste Windows (sans l'appliquer)
+HKCU,"Control Panel\Cursors\Schemes","%SCHEME_NAME%",0x00000000,"%SYSROOT%\Cursors\%PACK_DIR%\Normal Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Help Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Working in Background.ani,%SYSROOT%\Cursors\%PACK_DIR%\Busy.ani,%SYSROOT%\Cursors\%PACK_DIR%\Precision Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Text Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Handwriting.cur,%SYSROOT%\Cursors\%PACK_DIR%\Unavailable.cur,%SYSROOT%\Cursors\%PACK_DIR%\Vertical Resize.cur,%SYSROOT%\Cursors\%PACK_DIR%\Horizontal Resize.cur,%SYSROOT%\Cursors\%PACK_DIR%\Diagonal Resize 1.cur,%SYSROOT%\Cursors\%PACK_DIR%\Diagonal Resize 2.cur,%SYSROOT%\Cursors\%PACK_DIR%\Move.cur,%SYSROOT%\Cursors\%PACK_DIR%\Alternate Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Link Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Location Select.cur,%SYSROOT%\Cursors\%PACK_DIR%\Person Select.cur"
+
+[Strings]
+PACK_DIR="Dofus Cursor Pack (Moten)"
+SCHEME_NAME="Dofus Cursor Pack (Moten)"
+SYSROOT="%SystemRoot%"
