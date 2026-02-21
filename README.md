@@ -13,6 +13,18 @@ Custom Windows cursor scheme inspired by *Dofus*.
 
 ---
 
+FR :
+J’ai imaginé des curseurs qui auraient pu être proposés par Ankama lors de la mise à jour de Dofus 3.0, et je les ai adaptés à Windows pour pouvoir en profiter au quotidien !
+Le style correspond au thème « Standard » proposé par le jeu. Je prévois d’adapter plus tard les couleurs des autres thèmes !
+N’hésitez pas à me faire vos retours.
+
+EN :
+I imagined cursors that could have been released by Ankama with the Dofus 3.0 update, and I adapted them for Windows so you can enjoy them every day!
+The style matches the game’s “Standard” theme. I’m planning to adapt the colors for the other themes later on!
+Feel free to share your feedback.
+
+---
+
 ## 🇫🇷 Installation (Windows 10/11)
 
 1. Télécharge le `.zip` du pack (via **Releases**) et dézippe-le.
