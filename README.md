@@ -1,42 +1,50 @@
-## 🇬🇧 Dofus Cursor Pack (by Moten) — v1.0.0
+# Dofus Cursor Pack (by Moten)
 
-First public release of the Windows cursor scheme inspired by *Dofus*.
+Custom Windows cursor scheme inspired by *Dofus*.
 
-### ✅ Included
-- Full Windows 10/11 cursor scheme (static `.cur` + animated `.ani`)
-- `install.inf` for easy installation (right-click → Install)
-- Preview images (FR/EN)
+- **OS:** Windows 10 / 11  
+- **Formats:** `.cur` (static) + `.ani` (animated)  
+- **Install:** `install.inf` (right-click → Install)
 
-### 🔧 Install
-1. Download the `.zip` and extract it
-2. Right-click `install.inf` → **Install**
-3. Settings → Bluetooth & devices → Mouse → Additional mouse settings → **Pointers**
-4. Select **Dofus Cursor Pack (Moten)** → Apply
+## Preview
 
-### 📝 Notes
-- Some apps may keep their own cursors and ignore Windows schemes.
+![Preview EN](preview_en.png)
+![Preview FR](preview_fr.png)
 
 ---
 
-## 🇫🇷 Dofus Cursor Pack (by Moten) — v1.0.0
+## 🇫🇷 Installation (Windows 10/11)
 
-Première release publique du pack de curseurs Windows inspiré de *Dofus*.
+1. Télécharge le `.zip` du pack (via **Releases**) et dézippe-le.
+2. Vérifie que `install.inf` est au même niveau que les fichiers `.cur` / `.ani` (pas dans un sous-dossier).
+3. Clic droit sur `install.inf` → **Installer**.
+4. Va dans : **Paramètres → Bluetooth et appareils → Souris → Paramètres de souris supplémentaires**.
+5. Onglet **Pointeurs** → **Schéma** : sélectionne **Dofus Cursor Pack (Moten)**.
+6. **Appliquer** → **OK**.
 
-### ✅ Inclus
-- Schéma complet Windows 10/11 (curseurs `.cur` + `.ani`)
-- `install.inf` pour une installation facile (clic droit → Installer)
-- Images de preview (FR/EN)
-
-### 🔧 Installation
-1. Télécharge le `.zip` puis dézippe
-2. Clic droit sur `install.inf` → **Installer**
-3. Paramètres → Bluetooth et appareils → Souris → Paramètres de souris supplémentaires → **Pointeurs**
-4. Sélectionne **Dofus Cursor Pack (Moten)** → Appliquer
-
-### 📝 Notes
-- Certaines applis gardent leurs propres curseurs et peuvent ignorer le schéma Windows.
+### Dépannage
+- Pas d’option **Installer** : le fichier est peut-être `install.inf.txt` (affiche les extensions).
+- Certaines applis ne changent pas : elles utilisent leurs propres curseurs.
 
 ---
 
-## Credits / Legal
-Some images/visual assets are inspired by and/or sourced from *Dofus* (© Ankama Games). Unofficial fan-made project. No affiliation, endorsement, or sponsorship. I do not work for Ankama Games and claim no ownership over Ankama assets.
+## 🇬🇧 Installation (Windows 10/11)
+
+1. Download the pack `.zip` (from **Releases**) and extract it.
+2. Make sure `install.inf` is next to the `.cur` / `.ani` files (not inside a subfolder).
+3. Right-click `install.inf` → **Install**.
+4. Open: **Settings → Bluetooth & devices → Mouse → Additional mouse settings**.
+5. **Pointers** tab → **Scheme**: select **Dofus Cursor Pack (Moten)**.
+6. Click **Apply** → **OK**.
+
+### Troubleshooting
+- No **Install** option: the file may be `install.inf.txt` (enable file extensions).
+- Some apps won’t change: they ship their own cursors.
+
+---
+
+## Legal / Credits
+
+Some images/visual assets in this pack are inspired by and/or sourced from *Dofus*, a game created and published by **Ankama Games**. *Dofus* and all related content (logos, characters, visuals, names) are the exclusive property of **Ankama Games**.
+
+This is an **unofficial**, fan-made project with **no affiliation, partnership, endorsement, or sponsorship** from Ankama Games. I **do not work** for Ankama Games and **claim no ownership** over any Ankama Games assets.
